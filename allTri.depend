@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1459619824 source:c:\users\francisngangue\desktop\photo_sigges\alltri\trbulle.c
+
+1459619809 source:c:\users\francisngangue\desktop\photo_sigges\alltri\trfusion.c
+
+1459619836 source:c:\users\francisngangue\desktop\photo_sigges\alltri\trrapide.c
+
+1459620948 source:c:\users\francisngangue\desktop\photo_sigges\alltri\trselection.c
+
+1459708246 source:c:\users\francisngangue\desktop\photo_sigges\alltri\main.cpp
+	<iostream>
+	<vector>
+	<malloc.h>
+
